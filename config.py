@@ -12,7 +12,7 @@ class Config(object):
     BOT_TOKEN = getenv("BOT_TOKEN", "7600815065:AAEUoui_9DCg8ppIJoegOwbZARfDKBjL-i0")              # get from @BotFather
     DATABASE_URL = getenv("DATABASE_URL", "mongodb+srv://SiestaXMusic:BGMI272@cluster0.nik6j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")        # from https://cloud.mongodb.com/
     HELLBOT_SESSION = getenv("HELLBOT_SESSION", "BAGUEpcApxQXPsSs1E6uIdDSQNRcvo9Gd99m9vKesiA9hBdrFndpryr7HpsCZBPiNYSLqzV_ACEHCpsqjwl9f3H6h-vA09Ht7pGZhwaNx7VpKBYx68_msitvFiRLVIM4eEmt4UVkZ_qlgG-4-co0N0peZcaYVqJUFwc9TjxuKJw8bAJLFyc_fuCRsit7XX6FGiSM3it0dx2tuJkAW3LpHBm5VhIt07JeKYdxZ8pfIdbs0xBZ6RyZAIagb9lOwge5xr73xncvM3eTOc_5L1JYhpoOQ6FPGrpFbc0Z57igOsAt5KxgrNpFavpfw8shQc7xHiLTe81uM2UWFhqUhj-gS23CMe-MxAAAAAHSItAjAA")  # enter your session string here
-    LOGGER_ID = int(getenv("LOGGER_ID", "2239560457"))            # make a channel and get its ID
+    LOGGER_ID = int(getenv("LOGGER_ID", "-1001693273152"))            # make a channel and get its ID
     OWNER_ID = getenv("OWNER_ID", "7593550190")                  # enter your id here
 
     # optional config variables
