@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="[https://drive.google.com/file/d/1GFvDlUen6oxhI_yGFuZRCmDEa8fhnf8z/view?usp=drivesdk]" alt="The-HellBot" width=500 height=300>
+  <img src="[https://ibb.co/LJFGc80]" alt="The-HellBot" width=500 height=300>
 </p>
 
 <h6 align="center">
