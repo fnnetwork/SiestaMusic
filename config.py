@@ -18,7 +18,7 @@ class Config(object):
     # optional config variables
     BLACK_IMG = getenv("BLACK_IMG", "https://telegra.ph/file/2c546060b20dfd7c1ff2d.jpg")        # black image for progress
     BOT_NAME = getenv("BOT_NAME", "@SiestaXMusiccBot")   # dont put fancy texts here.
-    BOT_PIC = getenv("BOT_PIC", "https://ibb.co/LJFGc80")           # put direct link to image here
+    BOT_PIC = getenv("BOT_PIC", "https://i.ibb.co/b60GJ7P/IMG-20250122-184018.png")           # put direct link to image here
     LEADERBOARD_TIME = getenv("LEADERBOARD_TIME", "3:00")   # time in 24hr format for leaderboard broadcast
     LYRICS_API = getenv("LYRICS_API", None)             # from https://docs.genius.com/
     MAX_FAVORITES = int(getenv("MAX_FAVORITES", 30))    # max number of favorite tracks
