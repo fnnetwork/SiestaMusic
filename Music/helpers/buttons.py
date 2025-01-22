@@ -204,8 +204,8 @@ class MakeButtons:
     def source_markup(self):
         buttons = [
             [
-                self.ikb(text="Github ❤️", text="Soon"),
-                self.ikb(text="Repo 📦", text="Soon"),
+                self.ikb(text="Github ❤️", url="Soon"),
+                self.ikb(text="Repo 📦", url="Soon"),
             ],
             [
                 self.ikb(text="Under 𝐅𝐍 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 { 🇮🇳 }", url="https://t.me/fn_network_back"),
